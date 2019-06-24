@@ -19,9 +19,10 @@ namespace webapicore.Infra.Data.Context
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
-                optionsBuilder.UseSqlServer(@"Server=SES17110\SQLEXPRESS;Database=Db;Trusted_Connection=True;");
+                //optionsBuilder.UseSqlServer(@"Server=SES17110\SQLEXPRESS;Database=Db;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Estudos\C# .NET\webapicore\Infra\AppData\Database1.mdf;Integrated Security=True");
 
-                //<add name="CustodiaAtivosContext" connectionString="data source=srvsede0157;initial catalog=CustomizacoesHD;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+            //<add name="CustodiaAtivosContext" connectionString="data source=srvsede0157;initial catalog=CustomizacoesHD;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
