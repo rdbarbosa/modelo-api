@@ -1,0 +1,9 @@
+C:\Estudos\C# .NET\webapicore\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Estudos\C# .NET\webapicore\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\C# .NET\webapicore\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Estudos\C# .NET\webapicore\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Estudos\C# .NET\webapicore\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Estudos\C# .NET\webapicore\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Estudos\C# .NET\webapicore\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Estudos\C# .NET\webapicore\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Estudos\C# .NET\webapicore\Domain\obj\Debug\netstandard2.0\Domain.pdb

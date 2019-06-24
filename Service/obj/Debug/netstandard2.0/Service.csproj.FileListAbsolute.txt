@@ -1,0 +1,14 @@
+C:\Estudos\C# .NET\webapicore\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\Estudos\C# .NET\webapicore\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\Estudos\C# .NET\webapicore\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\Estudos\C# .NET\webapicore\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\Estudos\C# .NET\webapicore\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\Estudos\C# .NET\webapicore\Service\bin\Debug\netstandard2.0\Service.dll
+C:\Estudos\C# .NET\webapicore\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\Estudos\C# .NET\webapicore\Service\bin\Debug\netstandard2.0\Domain.dll
+C:\Estudos\C# .NET\webapicore\Service\bin\Debug\netstandard2.0\Infra.dll
+C:\Estudos\C# .NET\webapicore\Service\bin\Debug\netstandard2.0\Domain.pdb
+C:\Estudos\C# .NET\webapicore\Service\bin\Debug\netstandard2.0\Infra.pdb
+C:\Estudos\C# .NET\webapicore\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+C:\Estudos\C# .NET\webapicore\Service\obj\Debug\netstandard2.0\Service.dll
+C:\Estudos\C# .NET\webapicore\Service\obj\Debug\netstandard2.0\Service.pdb
